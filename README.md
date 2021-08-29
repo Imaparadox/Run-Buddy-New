@@ -1,15 +1,7 @@
 # Run-Buddy-New Inc.
-## Purpose
-A website that offers fitness training services. 
+This application was a module from the Rutgers Coding Bootcamp and did NOT require a README.
 
-## Built With
-* HTML
-* CSS
+## Checkout my other works!
+If you'd like to see my other repositories, click the link below!
 
-## Website
-https://lernantino.github.io/run-buddy/
-
-## Contribution
-Made with ❤️ by [your name]
-
-### ©️2019 Run Buddy, Inc 
+[Github Portflio] (https://github.com/Imaparadox/) 
